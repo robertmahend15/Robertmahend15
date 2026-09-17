@@ -1,10 +1,10 @@
 <h1>Hi, I'm Robert! <br/><a href="https://github.com/joshmadakor1">Engineerr</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Embedded Systems/Robotics</a>, <a href="https://www.youtube.com/c/joshmadakor">Aerospace Systems</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Aerospace Systems Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>eVTOL Systems Engineering & MBSE Project</b>
+  - [eVTOL Air Taxi](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
+- <b>eVTOL Aircraft Systems & Safety</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
