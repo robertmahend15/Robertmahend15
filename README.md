@@ -32,14 +32,17 @@
 - <b> Flappy Hoops: Basketball Arcade Game </b>
   - [Tap Tap Hoops ](https://youtu.be/Knxq7YAOgsc)
 - <b> Pong Game: Two-Player Object-Oriented Game </b>
-  - [PONGolympiX ]([https://youtu.be/Knxq7YAOgsc](https://www.instructables.com/PONGolympiX))
+  - [PONGolympiX ](https://www.instructables.com/PONGolympiX)
 
 <h2>📚 Researcher/ Published Scientist🔖</h2>
-- <b> Publications </b>
-  - [Analyzing motion on a surface of revolution using the effective analogous potential energy function (2026)]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://pubs.aip.org/aapt/ajp/article-abstract/94/1/16/3375225/Analyzing-motion-on-a-surface-of-revolution-using?redirectedFrom=fulltext))
-  - [The one-dimensional potential energy function that is analogous to a two-dimensional track (2023)]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://pubs.aip.org/aapt/ajp/article-abstract/91/5/345/2882850/The-one-dimensional-potential-energy-function-that?redirectedFrom=fulltext))
+
+- <b>Publications</b>
+   - [Analyzing motion on a surface of revolution using the effective analogous potential energy function(2026)](https://pubs.aip.org/aapt/ajp/article-abstract/94/1/16/3375225/Analyzing-motion-on-a-surface-of-revolution-using?redirectedFrom=fulltext)
+   - [The one-dimensional potential energy function that is analogous to a two-dimensional track (2023)](https://pubs.aip.org/aapt/ajp/article-abstract/91/5/345/2882850/The-one-dimensional-potential-energy-function-that?redirectedFrom=fulltext)
+
 
 - <b>Python</b>
+
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
