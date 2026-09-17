@@ -21,7 +21,7 @@
 <h2> 💻 Computer Aided Design(CAD)🖱️:</h2>
 
 - <b>Aircraft CAD Modeling</b>
-  - [Simple Aircraft Model](https://robertmahend15.github.io/robertmahend15.cad/)
+  - [Simple Aircraft Model](https://robertmahend15.github.io/robertmahend15.aircraft/)
 - <b> Custom Chess Set Modeling </b>
   - [ChessMaster 5000: Chess Set CAD Design](https://www.instructables.com/ChessMaster-5000)
 - <b>  More CAD Designs</b>
