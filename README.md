@@ -13,9 +13,10 @@
   - [Alarm Clock](https://youtu.be/kSk7iCnihsc)
 - <b> Arduino-controlled, light-sensing LED system with a laser-cut enclosure </b>
   - [Seed Starter](https://www.instructables.com/Seed-Starter-500)
-  - 
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b> Arduino LED Lighting System with IR Remote Control </b>
+  - [Les Lumieres](https://www.instructables.com/LuMieres)
+- <b> Dresser Restoration with Arduino-Controlled LED Lighting </b>
+  - [Arduino LED Dresser Makeover](https://www.instructables.com/Renovated-Dresser-With-Neopixels)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
