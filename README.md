@@ -9,9 +9,11 @@
 
 <h2>🦾 Embedded Systems/Robotics:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- <b>Alarm Clock with Remote Light Control</b>
+  - [Alarm Clock](https://youtu.be/kSk7iCnihsc)
+- <b> Arduino-controlled, light-sensing LED system with a laser-cut enclosure </b>
+  - [Seed Starter](https://www.instructables.com/Seed-Starter-500)
+  - 
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
@@ -22,8 +24,11 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - 
 <h2>📺 Computer Aided Design(CAD)</h2>
+- <b>  </b>
 <h2>📺 Programmer/Game Developer </h2>
+- <b>  </b>
 <h2>📺 Researcher/ Published Scientist</h2>
+- <b>  </b>
 
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
