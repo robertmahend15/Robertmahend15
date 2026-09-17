@@ -17,20 +17,42 @@
   - [Les Lumieres](https://www.instructables.com/LuMieres)
 - <b> Dresser Restoration with Arduino-Controlled LED Lighting </b>
   - [Arduino LED Dresser Makeover](https://www.instructables.com/Renovated-Dresser-With-Neopixels)
+  
 <h2> 💻 Computer Aided Design(CAD)🖱️:</h2>
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
+- <b>Aircraft CAD Modeling</b>
+  - [Simple Aircraft Model](https://github.com/joshmadakor1/EncrypterPOC)
+- <b> Custom Chess Set Modeling </b>
+  - [ChessMaster 5000: Chess Set CAD Design](https://www.instructables.com/ChessMaster-5000)
+- <b>  More CAD Designs</b>
+  - [All Other Cad Projects](https://github.com/joshmadakor1/Key-Logger-With-Email)
+    
+<h2>🎮 Programmer/Game Developer 🎮 </h2>
+
+- <b> Flappy Hoops: Basketball Arcade Game </b>
+  - [Tap Tap Hoops ](https://youtu.be/Knxq7YAOgsc)
+- <b> Pong Game: Two-Player Object-Oriented Game </b>
+  - [PONGolympiX ]([https://youtu.be/Knxq7YAOgsc](https://www.instructables.com/PONGolympiX))
+
+<h2>📚 Researcher/ Published Scientist🔖</h2>
+- <b> Publications </b>
+  - [Analyzing motion on a surface of revolution using the effective analogous potential energy function (2026)]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://pubs.aip.org/aapt/ajp/article-abstract/94/1/16/3375225/Analyzing-motion-on-a-surface-of-revolution-using?redirectedFrom=fulltext))
+  - [The one-dimensional potential energy function that is analogous to a two-dimensional track (2023)]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://pubs.aip.org/aapt/ajp/article-abstract/91/5/345/2882850/The-one-dimensional-potential-energy-function-that?redirectedFrom=fulltext))
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - 
+
+
+
+
+
+
+
+
 <h2>📺 Computer Aided Design(CAD)</h2>
 - <b>  </b>
-<h2>🎮 Programmer/Game Developer 🎮 </h2>
-- <b>  </b>
-<h2>📚 Researcher/ Published Scientist🔖</h2>
-- <b>  </b>
+
+
 
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
