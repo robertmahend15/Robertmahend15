@@ -21,11 +21,11 @@
 <h2> 💻 Computer Aided Design(CAD)🖱️:</h2>
 
 - <b>Aircraft CAD Modeling</b>
-  - [Simple Aircraft Model](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Simple Aircraft Model](https://robertmahend15.github.io/robertmahend15.cad/)
 - <b> Custom Chess Set Modeling </b>
   - [ChessMaster 5000: Chess Set CAD Design](https://www.instructables.com/ChessMaster-5000)
 - <b>  More CAD Designs</b>
-  - [All Other Cad Projects](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [All Other Cad Projects](https://robertmahend15.github.io/robertmahend15.cad/)
     
 <h2>🎮 Programmer/Game Developer 🎮 </h2>
 
@@ -39,6 +39,7 @@
 - <b>Publications</b>
    - [Analyzing motion on a surface of revolution using the effective analogous potential energy function(2026)](https://pubs.aip.org/aapt/ajp/article-abstract/94/1/16/3375225/Analyzing-motion-on-a-surface-of-revolution-using?redirectedFrom=fulltext)
    - [The one-dimensional potential energy function that is analogous to a two-dimensional track (2023)](https://pubs.aip.org/aapt/ajp/article-abstract/91/5/345/2882850/The-one-dimensional-potential-energy-function-that?redirectedFrom=fulltext)
+
 
 
 - <b>Python</b>
