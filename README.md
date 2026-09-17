@@ -1,11 +1,14 @@
-<h1>Hi, I'm Robert! <br/><a href="https://github.com/joshmadakor1">Engineerr</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Embedded Systems/Robotics</a>, <a href="https://www.youtube.com/c/joshmadakor">Aerospace Systems</a></h1>
+<h1>Hi, I'm Robert! <br/><a href="https://github.com/joshmadakor1">Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Embedded Systems/Robotics</a>, <a href="https://www.youtube.com/c/joshmadakor">Aerospace Systems</a></h1>
 
-<h2>👨‍💻 Aerospace Systems Projects:</h2>
+<h2>🎛️ Aerospace Systems Projects:</h2>
 
-- <b>eVTOL Systems Engineering & MBSE Project</b>
+- <b>eVTOL Systems Engineering & MBSE Project: </b>
   - [eVTOL Air Taxi](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
 - <b>eVTOL Aircraft Systems & Safety</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+
+<h2>🦾 Embedded Systems/Robotics:</h2>
+
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -17,8 +20,11 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - 
+<h2>📺 Computer Aided Design(CAD)</h2>
+<h2>📺 Programmer/Game Developer </h2>
+<h2>📺 Researcher/ Published Scientist</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
