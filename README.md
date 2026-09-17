@@ -5,7 +5,12 @@
 - <b>eVTOL Systems Engineering & MBSE Project: </b>
   - [eVTOL Air Taxi](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
 - <b>eVTOL Aircraft Systems & Safety</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Preliminary Aircraft Safety Analysis (PASA)](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
+- <b>Study of Manufacturability and Robustness of Beam Joints in a Cub-octahedron Voxel</b>
+  - [Joints & Nodes ](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
+ 
+- <b>Structural Analysis</b>
+  - [Mesh FEA Analysis](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
 
 <h2>🦾 Embedded Systems/Robotics⚙️:</h2>
 
