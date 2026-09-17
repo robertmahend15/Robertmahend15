@@ -1,13 +1,13 @@
 <h1>Hi, I'm Robert! <br/><a href="https://github.com/joshmadakor1">Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Embedded Systems/Robotics</a>, <a href="https://www.youtube.com/c/joshmadakor">Aerospace Systems</a></h1>
 
-<h2>🎛️ Aerospace Systems Projects:</h2>
+<h2> ✈️Aerospace Systems Projects🛰️:</h2>
 
 - <b>eVTOL Systems Engineering & MBSE Project: </b>
   - [eVTOL Air Taxi](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
 - <b>eVTOL Aircraft Systems & Safety</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 
-<h2>🦾 Embedded Systems/Robotics:</h2>
+<h2>🦾 Embedded Systems/Robotics⚙️:</h2>
 
 - <b>Alarm Clock with Remote Light Control</b>
   - [Alarm Clock](https://youtu.be/kSk7iCnihsc)
@@ -17,6 +17,7 @@
   - [Les Lumieres](https://www.instructables.com/LuMieres)
 - <b> Dresser Restoration with Arduino-Controlled LED Lighting </b>
   - [Arduino LED Dresser Makeover](https://www.instructables.com/Renovated-Dresser-With-Neopixels)
+<h2> 💻 Computer Aided Design(CAD)🖱️:</h2>
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
@@ -26,9 +27,9 @@
   - 
 <h2>📺 Computer Aided Design(CAD)</h2>
 - <b>  </b>
-<h2>📺 Programmer/Game Developer </h2>
+<h2>🎮 Programmer/Game Developer 🎮 </h2>
 - <b>  </b>
-<h2>📺 Researcher/ Published Scientist</h2>
+<h2>📚 Researcher/ Published Scientist🔖</h2>
 - <b>  </b>
 
 
