@@ -32,9 +32,9 @@
 <h2>📊 Finite Element & Structural Analysis🎛️: </h2>
 
 - <b>Study of Manufacturability and Robustness of Beam Joints in a Cub-octahedron Voxel</b>
-  - [Joints & Nodes ](https://github.com/robertmahend15/FeaAnalysis)
+  - [Joints & Nodes ](https://github.com/robertmahend15/cubohectahedron)
 - <b>Structural Analysis</b>
-  - [Mesh FEA Analysis](https://robertmahend15.github.io/FeaAnalysis/)
+  - [Mesh FEA Analysis](https://github.com/robertmahend15/FeaAnalysis)
     
 <h2> 🎮 Programming & Game Development 💻:</h2>
 
