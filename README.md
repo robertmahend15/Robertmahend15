@@ -1,18 +1,15 @@
-<h1>Hi, I'm Robert! <br/><a href="https://github.com/joshmadakor1">Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Embedded Systems/Robotics</a>, <a href="https://www.youtube.com/c/joshmadakor">Aerospace Systems</a></h1>
+<h1>Hi, I'm Robert! 
+  
+  <br/><a href="https://github.com/Robertmahend15"> Aerospace Engineer</a>, <a href="https://www.linkedin.com/in/robert-mbenoun-mahend-4227035a//">System Thinker</a>, <a href="https://www.researchgate.net/profile/Robert-Mbenoun">Published Research</a>, <a href="https://www.rmfoundationc.org/">Global Impact Leader</a></h1>
 
-<h2> ✈️Aerospace Systems 🛰️:</h2>
+<h2> ✈️Aerospace Systems & Safety Engineering 🛰️:</h2>
 
 - <b>eVTOL Systems Engineering & MBSE Project: </b>
   - [eVTOL Air Taxi](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
 - <b>eVTOL Aircraft Systems & Safety</b>
   - [Preliminary Aircraft Safety Analysis (PASA)](https://robertmahend15.github.io/Systems-Engineering-Analysis/)
-- <b>Study of Manufacturability and Robustness of Beam Joints in a Cub-octahedron Voxel</b>
-  - [Joints & Nodes ](https://robertmahend15.github.io/cubohectahedron/)
- 
-- <b>Structural Analysis</b>
-  - [Mesh FEA Analysis](https://robertmahend15.github.io/FeaAnalysis/)
 
-<h2>🦾 Embedded Systems/Robotics⚙️:</h2>
+<h2>🤖 Robotics, Embedded Systems & Automation🦾 :</h2>
 
 - <b>Alarm Clock with Remote Light Control</b>
   - [Alarm Clock](https://youtu.be/kSk7iCnihsc)
@@ -23,7 +20,7 @@
 - <b> Dresser Restoration with Arduino-Controlled LED Lighting </b>
   - [Arduino LED Dresser Makeover](https://www.instructables.com/Renovated-Dresser-With-Neopixels)
   
-<h2> 💻 Computer Aided Design(CAD)🖱️:</h2>
+<h2>🛠️ Mechanical Design & Computer Aided Design(CAD)💻:</h2>
 
 - <b>Aircraft CAD Modeling</b>
   - [Simple Aircraft Model](https://robertmahend15.github.io/Aircraft-Cad/)
@@ -31,15 +28,22 @@
   - [ChessMaster 5000: Chess Set CAD Design](https://www.instructables.com/ChessMaster-5000)
 - <b>  More CAD Designs</b>
   - [All Other Cad Projects](https://robertmahend15.github.io/Cad-Design/)
-    
-<h2>🎮 Programmer/Game Developer 🎮 </h2>
+
+<h2>📊 Finite Element & Structural Analysis </h2>
+
+- <b>Study of Manufacturability and Robustness of Beam Joints in a Cub-octahedron Voxel</b>
+  - [Joints & Nodes ](https://robertmahend15.github.io/cubohectahedron/)
+- <b>Structural Analysis</b>
+  - [Mesh FEA Analysis](https://robertmahend15.github.io/FeaAnalysis/)
+  - 
+<h2> 🎮 Programming & Game Development 💻</h2>
 
 - <b> Flappy Hoops: Basketball Arcade Game </b>
   - [Tap Tap Hoops ](https://youtu.be/Knxq7YAOgsc)
 - <b> Pong Game: Two-Player Object-Oriented Game </b>
   - [PONGolympiX ](https://www.instructables.com/PONGolympiX)
 
-<h2>📚 Researcher/ Published Scientist🔖</h2>
+<h2>🔬 Research & Publications📚 </h2>
 
 - <b>Publications</b>
    - [Analyzing motion on a surface of revolution using the effective analogous potential energy function(2026)](https://pubs.aip.org/aapt/ajp/article-abstract/94/1/16/3375225/Analyzing-motion-on-a-surface-of-revolution-using?redirectedFrom=fulltext)
@@ -58,24 +62,12 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="RobMbenoun | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="RobMbenoun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RobMbenoun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/robert-mbenoun-mahend-4227035a/
 [twitter]: https://x.com/robertmahend
 [instagram]: https://www.instagram.com/rmfoundationcmr/
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
