@@ -7,7 +7,7 @@
 - <b>eVTOL Systems Engineering & MBSE Project: </b>
   - [eVTOL Air Taxi](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
 - <b>eVTOL Aircraft Systems & Safety</b>
-  - [Preliminary Aircraft Safety Analysis (PASA)](https://robertmahend15.github.io/Systems-Engineering-Analysis/)
+  - [Preliminary Aircraft Safety Analysis (PASA)](https://github.com/robertmahend15/Systems-Engineering-Analysis)
 
 <h2>🤖 Robotics, Embedded Systems & Automation🦾 :</h2>
 
