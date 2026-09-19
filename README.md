@@ -48,7 +48,7 @@
 - <b>Publications</b>
    - [Analyzing motion on a surface of revolution using the effective analogous potential energy function(2026)](https://pubs.aip.org/aapt/ajp/article-abstract/94/1/16/3375225/Analyzing-motion-on-a-surface-of-revolution-using?redirectedFrom=fulltext)
    - [The one-dimensional potential energy function that is analogous to a two-dimensional track (2023)](https://pubs.aip.org/aapt/ajp/article-abstract/91/5/345/2882850/The-one-dimensional-potential-energy-function-that?redirectedFrom=fulltext)
-   - [Policy Analysis: Governing Fully Autonomous Nuclear Weapons Launch](https://robertmahend15.github.io/Policy/)
+   - [Policy Analysis: Governing Fully Autonomous Nuclear Weapons Launch](https://github.com/robertmahend15/Policy)
 
 
 
