@@ -5,7 +5,7 @@
 - <b>eVTOL Systems Engineering & MBSE Project: </b>
   - [eVTOL Air Taxi](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
 - <b>eVTOL Aircraft Systems & Safety</b>
-  - [Preliminary Aircraft Safety Analysis (PASA)](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
+  - [Preliminary Aircraft Safety Analysis (PASA)](https://robertmahend15.github.io/Systems-Engineering-Analysis/)
 - <b>Study of Manufacturability and Robustness of Beam Joints in a Cub-octahedron Voxel</b>
   - [Joints & Nodes ](https://robertmahend15.github.io/cubohectahedron/)
  
@@ -26,11 +26,11 @@
 <h2> 💻 Computer Aided Design(CAD)🖱️:</h2>
 
 - <b>Aircraft CAD Modeling</b>
-  - [Simple Aircraft Model](https://robertmahend15.github.io/robertmahend15.aircraft/)
+  - [Simple Aircraft Model](https://robertmahend15.github.io/Aircraft-Cad/)
 - <b> Custom Chess Set Modeling </b>
   - [ChessMaster 5000: Chess Set CAD Design](https://www.instructables.com/ChessMaster-5000)
 - <b>  More CAD Designs</b>
-  - [All Other Cad Projects](https://robertmahend15.github.io/robertmahend15.cad/)
+  - [All Other Cad Projects](https://robertmahend15.github.io/Cad-Design/)
     
 <h2>🎮 Programmer/Game Developer 🎮 </h2>
 
