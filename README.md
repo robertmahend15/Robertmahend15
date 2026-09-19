@@ -23,16 +23,16 @@
 <h2>🛠️ Mechanical Design & Computer Aided Design(CAD)💻:</h2>
 
 - <b>Aircraft CAD Modeling</b>
-  - [Simple Aircraft Model](https://robertmahend15.github.io/Aircraft-Cad/)
+  - [Simple Aircraft Model](https://github.com/robertmahend15/Aircraft-Cad)
 - <b> Custom Chess Set Modeling </b>
   - [ChessMaster 5000: Chess Set CAD Design](https://www.instructables.com/ChessMaster-5000)
 - <b>  More CAD Designs</b>
-  - [All Other Cad Projects](https://robertmahend15.github.io/Cad-Design/)
+  - [All Other Cad Projects](https://github.com/robertmahend15/Cad-Design)
 
 <h2>📊 Finite Element & Structural Analysis🎛️: </h2>
 
 - <b>Study of Manufacturability and Robustness of Beam Joints in a Cub-octahedron Voxel</b>
-  - [Joints & Nodes ](https://robertmahend15.github.io/cubohectahedron/)
+  - [Joints & Nodes ](https://github.com/robertmahend15/FeaAnalysis)
 - <b>Structural Analysis</b>
   - [Mesh FEA Analysis](https://robertmahend15.github.io/FeaAnalysis/)
     
