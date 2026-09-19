@@ -1,6 +1,6 @@
 <h1>Hi, I'm Robert! 
   
-  <br/><a href="https://github.com/Robertmahend15"> Aerospace Engineer</a>, <a href="https://www.linkedin.com/in/robert-mbenoun-mahend-4227035a//">System Thinker</a>, <a href="https://www.researchgate.net/profile/Robert-Mbenoun">Published Research</a>, <a href="https://www.rmfoundationc.org/">Global Impact Leader</a></h1>
+  <br/><a href="https://www.linkedin.com/in/robert-mbenoun-mahend-4227035a//"> Aerospace Engineer</a>, <a href="https://www.youtube.com/playlist?list=PLZLkkAC6Qh-Y">Builder by Mindset</a>, <a href="https://www.researchgate.net/profile/Robert-Mbenoun">Published Research</a>, <a href="https://www.rmfoundationc.org/">Leader by Purpose</a></h1>
 
 <h2> ✈️Aerospace Systems & Safety Engineering 🛰️:</h2>
 
@@ -35,7 +35,7 @@
   - [Joints & Nodes ](https://robertmahend15.github.io/cubohectahedron/)
 - <b>Structural Analysis</b>
   - [Mesh FEA Analysis](https://robertmahend15.github.io/FeaAnalysis/)
-  - 
+    
 <h2> 🎮 Programming & Game Development 💻</h2>
 
 - <b> Flappy Hoops: Basketball Arcade Game </b>
@@ -48,14 +48,6 @@
 - <b>Publications</b>
    - [Analyzing motion on a surface of revolution using the effective analogous potential energy function(2026)](https://pubs.aip.org/aapt/ajp/article-abstract/94/1/16/3375225/Analyzing-motion-on-a-surface-of-revolution-using?redirectedFrom=fulltext)
    - [The one-dimensional potential energy function that is analogous to a two-dimensional track (2023)](https://pubs.aip.org/aapt/ajp/article-abstract/91/5/345/2882850/The-one-dimensional-potential-energy-function-that?redirectedFrom=fulltext)
-
-
-
-<h2>📺 Computer Aided Design(CAD)</h2>
-- <b>Python</b>
-
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 
 
 
