@@ -7,10 +7,10 @@
 - <b>eVTOL Aircraft Systems & Safety</b>
   - [Preliminary Aircraft Safety Analysis (PASA)](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
 - <b>Study of Manufacturability and Robustness of Beam Joints in a Cub-octahedron Voxel</b>
-  - [Joints & Nodes ](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
+  - [Joints & Nodes ](https://robertmahend15.github.io/cubohectahedron/)
  
 - <b>Structural Analysis</b>
-  - [Mesh FEA Analysis](https://youtu.be/7yEVAlH7Z-c?si=v0yn9sJKVRus4AC3)
+  - [Mesh FEA Analysis](https://robertmahend15.github.io/FeaAnalysis/)
 
 <h2>🦾 Embedded Systems/Robotics⚙️:</h2>
 
@@ -47,28 +47,13 @@
 
 
 
+<h2>📺 Computer Aided Design(CAD)</h2>
 - <b>Python</b>
 
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 
-
-
-
-
-
-<h2>📺 Computer Aided Design(CAD)</h2>
-- <b>  </b>
-
-
-
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
